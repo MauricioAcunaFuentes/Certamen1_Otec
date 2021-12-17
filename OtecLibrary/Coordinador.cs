@@ -23,6 +23,13 @@ namespace OtecLibrary
             this.rut = rut;
             this.nombre = nombre;
         }
+        public Coordinador(string rut, string nombre,string correo,string telefono)
+        {
+            this.rut = rut;
+            this.nombre = nombre;
+            this.correo = correo;
+            this.telefono = telefono;
+        }
         //metodos
         public string Rut { get => rut; set => rut = value; }
         public string Nombre { get => nombre; set => nombre = value; }

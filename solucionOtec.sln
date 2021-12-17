@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otec", "Otec\Otec.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtecLibrary", "OtecLibrary\OtecLibrary.csproj", "{118A7A36-DCD7-44DC-AD0D-A9E247F4A014}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseDatos", "ClaseDatos\ClaseDatos.csproj", "{E2DC95E7-90CF-4804-91D2-2E4E5B6B69BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebOtec", "WebOtec\WebOtec.csproj", "{774354B0-FE13-4A54-8FF1-AEF224F90B7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{118A7A36-DCD7-44DC-AD0D-A9E247F4A014}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{118A7A36-DCD7-44DC-AD0D-A9E247F4A014}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{118A7A36-DCD7-44DC-AD0D-A9E247F4A014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DC95E7-90CF-4804-91D2-2E4E5B6B69BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DC95E7-90CF-4804-91D2-2E4E5B6B69BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DC95E7-90CF-4804-91D2-2E4E5B6B69BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DC95E7-90CF-4804-91D2-2E4E5B6B69BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774354B0-FE13-4A54-8FF1-AEF224F90B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774354B0-FE13-4A54-8FF1-AEF224F90B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774354B0-FE13-4A54-8FF1-AEF224F90B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774354B0-FE13-4A54-8FF1-AEF224F90B7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
